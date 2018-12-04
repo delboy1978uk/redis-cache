@@ -1,11 +1,15 @@
 {
-    "name": "naroga/redis-cache",
+    "name": "delboy1978uk/redis-cache",
     "description": "A Redis driver that implements PSR-16 (Simple Cache)",
     "license": "MIT",
     "authors": [
         {
             "name": "Pedro Cordeiro",
             "email": "pedro.cordeiro@sympla.com.br"
+        },
+        {
+            "name": "Derek Stephen McLeandelboy1978uk@gmail.com",
+            "email": "delboy1978uk@gmail.com"
         }
     ],
     "type": "library",
